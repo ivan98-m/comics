@@ -1,0 +1,9 @@
+.card {
+    height: 100%;
+}
+
+.card button{
+    width: 60%;
+    align-self: center;
+    margin-bottom: 2.5em;
+}
