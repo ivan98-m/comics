@@ -1,3 +1,5 @@
+# ATENTICACION
+Web App that shows and describe superhero data y autenticacion con auth0 realizado por: Santiago Rosero, Ivan Morales
 # Spa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
